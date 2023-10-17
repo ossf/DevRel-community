@@ -14,7 +14,7 @@ Our materials would be targeted at [the personas documented here](https://docs.g
 
 ## Join us
 
-Our meeting schedule can be found on [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/6?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). We generally meet on the 4th Thursday of each months. Also join [Slack](https://join.slack.com/t/openssf/shared_invite/zt-22dfsrz1x-VirRpydvBZCXuTaGSTPWFA) and [#devrel-community channel](https://openssf.slack.com/archives/C060PHUUPAA).
+Our meeting schedule can be found on [OpenSSF Community Calendar](https://calendar.google.com/calendar/u/6?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). We generally meet on the 2nd Thursday of each months. Also join [Slack](https://join.slack.com/t/openssf/shared_invite/zt-22dfsrz1x-VirRpydvBZCXuTaGSTPWFA) and [#devrel-community channel](https://openssf.slack.com/archives/C060PHUUPAA).
 
 ## Code of Conduct
 
