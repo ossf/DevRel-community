@@ -10,7 +10,7 @@ Our Mission, Vision, Strategy and Roadmap is [documented here](https://docs.goog
 
 ## Personas
 
-Our materials would be targeted at [the personas documented here](https://docs.google.com/presentation/d/15NAGaNvxvVcuowO6C9SPVntVjg0mISfHunD42VRaymU/edit?usp=sharing).
+Our materials would be targeted at [the personas documented here](https://docs.google.com/presentation/d/1lCvYPNCyH9ae1hYc3XPXCgJ0C_2ohJLHg-LlL2fLLUo/edit?usp=sharing).
 
 ## Join us
 
