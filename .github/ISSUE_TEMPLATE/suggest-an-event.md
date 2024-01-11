@@ -14,8 +14,10 @@ Website:
 Event date:
 Location (city, country):
 CfP deadline:
-Target persona:
-Is there a Code of Conduct?:
+Link to Code of Conduct:
+Attendee size:
+Target audience:
+
 
 The following type of submission is accepted:
 - [ ] workshops
