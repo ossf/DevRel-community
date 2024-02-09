@@ -5,7 +5,6 @@ Thank you for contributing your time and expertise to the OpenSSF DevRel Communi
 **Note:** Before you start contributing, you must read and abide by 
 **[OpenSSF’s Code of Conduct](https://openssf.org/community/code-of-conduct)**.
 
-// TODO: Table of contents, once we’re happy with the headings.
 ## Orientation
 ### What is it we do around here, anyway?
 The OpenSSF DevRel Community is affiliated with and managed by the Marketing Committee for the purpose of evangelizing the mission and work of the OpenSSF and building strong community outreach around end-users and open-source maintainers and contributors. 
@@ -22,7 +21,7 @@ All of the other folks you see hanging around are there in a volunteer capacity.
 
 If you would like to join them, this group is open to anyone with a passion for helping open source maintainers create more secure software to participate in!
 ### Where to find us?
-We’re in the **#devrel-community** channel of OpenSSF Slack.
+We’re in the [**#devrel-community**](https://openssf.slack.com/archives/C060PHUUPAA) channel of [OpenSSF Slack](https://openssf.slack.com/).
 
 ### What help is generally needed?
 We’d love folks with this kind of experience:
@@ -34,25 +33,31 @@ We’d love folks with this kind of experience:
 * Folks with Project Management experience who can help with wrangling and prioritizing the work to do
 * Folks with Community Management experience who can help with herding cats
 * Open Source Maintainers, to provide “maintainer experience” feedback on OpenSSF tools and presentations
-* // TODO: I’m sure other types of folks, too! :D
+
+If you don't see your exact experience listed here, please join anyway! :D
+
 ## Ways to Contribute
 ### Meet us at… meetings!
 You can talk with other folks interested in this initiative in “real time” during:
 
-* **Monthly Monthly DevRel Community meetings** which happen the second Thursday of the month at 19:30 UTC ([what is that in my timezone?](https://time.is/1930_in_UTC)) for updates of general goings on and general discussion. Feel free to add a topic to the [agenda](https://docs.google.com/document/d/1qhqQKezqt4R9tfy3gh6MwatG-Tbs7MDPb2_LVzaeMOY/edit) and you can find notes from previous meetings in the [meetings](./meetings) folder.
-* **Weekly Office Hours** which are weekly at 20:30 UTC ([what is that in my timezone?](https://time.is/2030_in_UTC)) These are generally working sessions, but we hope to expand to activities like reviewing CFP submissions, offer space for folks to practice talks, etc.
+* **Monthly Monthly DevRel Community meetings** which happen the second Thursday of the month at 19:30 UTC ([your timezone](https://time.is/1930_in_UTC)) for updates of general goings on and general discussion. Feel free to add a topic to the [agenda](https://docs.google.com/document/d/1qhqQKezqt4R9tfy3gh6MwatG-Tbs7MDPb2_LVzaeMOY/edit) and you can find notes from previous meetings in the [meetings](./meetings) folder.
+* **Weekly Office Hours** which are weekly at 20:30 UTC ([your timezone](https://time.is/2030_in_UTC)) These are generally working sessions, but we hope to expand to activities like reviewing CFP submissions, offer space for folks to practice talks, etc.
 
-If you're new to OpenSSF, you can watch or attend a [Town Hall](https://www.youtube.com/playlist?list=PLVl2hFL_zAh_rQ4oTpM7OKkEm_Y2OWsK8) to get acquainted, as well as join in to any of the other meetings listed at https://openssf.org/getinvolved/ to get a bit more “in the weeds” with an area that interests you!
+If you're new to OpenSSF, you can watch or attend a [Town Hall](https://www.youtube.com/playlist?list=PLVl2hFL_zAh_rQ4oTpM7OKkEm_Y2OWsK8) to get acquainted, as well as join in to any of the other meetings in the calendar at [Get Involved](https://openssf.org/getinvolved/) to get a bit more “in the weeds” with an area that interests you!
+
 ### Pick up an issue to work on
 Various initiatives are tracked as issues. We run as a “do-ocracy” so feel free to propose your own ideas or pick something up. Good places to start are issues marked [good first issue](https://github.com/ossf/DevRel-community/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or [help wanted](https://github.com/ossf/DevRel-community/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22).
 
 Feel free to chat about an issue you’re working on in Slack, or add it to the agenda of one of our next meetings for discussion!
+
 ### Host or speak at an OpenSSF Meetup
 The [OpenSSF Meetup network](https://www.meetup.com/pro/openssf/) can always use help from folks with experience hosting or speaking at meetups.
 
 See the [Meetup Organizing Guidelines](https://openssf.org/community/meetup-guidelines/).
+
 ### Contribute an OpenSSF Talk / Abstract
 If you have an OpenSSF-related talk you’ve given in the past, and/or on one of OpenSSF’s related initiatives, you can submit a PR to add it to our [talk templates](./talk_templates).
+
 ### *Give* an OpenSSF Talk
 If you’re interested in giving a talk about OpenSSF at a conference targeting open source developers and/or maintainers, you can find a list of [sample abstracts](./abstracts) as well as [talk templates](./talk_templates).
 
