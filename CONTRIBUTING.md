@@ -43,7 +43,7 @@ You can talk with other folks interested in this initiative in “real time” d
 * **Monthly Monthly DevRel Community meetings** which happen the second Thursday of the month at 16:30 UTC ([your timezone](https://time.is/1630_in_UTC)) for updates of general goings on and general discussion. Feel free to add a topic to the [agenda](https://docs.google.com/document/d/1qhqQKezqt4R9tfy3gh6MwatG-Tbs7MDPb2_LVzaeMOY/edit) and you can find notes from previous meetings in the [meetings](./meetings) folder.
 * **Weekly Office Hours** which are weekly at 17:30 UTC ([your timezone](https://time.is/1730_in_UTC)) These are generally working sessions, but we hope to expand to activities like reviewing CFP submissions, offer space for folks to practice talks, etc.
 
-If you're new to OpenSSF, you can watch or attend a [Town Hall](https://www.youtube.com/playlist?list=PLVl2hFL_zAh_rQ4oTpM7OKkEm_Y2OWsK8) to get acquainted, as well as join in to any of the other meetings in the calendar at [Get Involved](https://openssf.org/getinvolved/) to get a bit more “in the weeds” with an area that interests you!
+If you're new to OpenSSF, see the [OpenSSF Community](https://github.com/ossf/community) repo for an explanation of what we do, how we are structured, and how to get involved.
 
 ### Pick up an issue to work on
 Various initiatives are tracked as issues. We run as a “do-ocracy” so feel free to propose your own ideas or pick something up. Good places to start are issues marked [good first issue](https://github.com/ossf/DevRel-community/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or [help wanted](https://github.com/ossf/DevRel-community/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22).
