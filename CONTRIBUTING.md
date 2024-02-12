@@ -40,8 +40,8 @@ If you don't see your exact experience listed here, please join anyway! :D
 ### Meet us at… meetings!
 You can talk with other folks interested in this initiative in “real time” during:
 
-* **Monthly Monthly DevRel Community meetings** which happen the second Thursday of the month at 19:30 UTC ([your timezone](https://time.is/1930_in_UTC)) for updates of general goings on and general discussion. Feel free to add a topic to the [agenda](https://docs.google.com/document/d/1qhqQKezqt4R9tfy3gh6MwatG-Tbs7MDPb2_LVzaeMOY/edit) and you can find notes from previous meetings in the [meetings](./meetings) folder.
-* **Weekly Office Hours** which are weekly at 20:30 UTC ([your timezone](https://time.is/2030_in_UTC)) These are generally working sessions, but we hope to expand to activities like reviewing CFP submissions, offer space for folks to practice talks, etc.
+* **Monthly Monthly DevRel Community meetings** which happen the second Thursday of the month at 16:30 UTC ([your timezone](https://time.is/1630_in_UTC)) for updates of general goings on and general discussion. Feel free to add a topic to the [agenda](https://docs.google.com/document/d/1qhqQKezqt4R9tfy3gh6MwatG-Tbs7MDPb2_LVzaeMOY/edit) and you can find notes from previous meetings in the [meetings](./meetings) folder.
+* **Weekly Office Hours** which are weekly at 17:30 UTC ([your timezone](https://time.is/1730_in_UTC)) These are generally working sessions, but we hope to expand to activities like reviewing CFP submissions, offer space for folks to practice talks, etc.
 
 If you're new to OpenSSF, you can watch or attend a [Town Hall](https://www.youtube.com/playlist?list=PLVl2hFL_zAh_rQ4oTpM7OKkEm_Y2OWsK8) to get acquainted, as well as join in to any of the other meetings in the calendar at [Get Involved](https://openssf.org/getinvolved/) to get a bit more “in the weeds” with an area that interests you!
 
