@@ -61,7 +61,7 @@ If you have an OpenSSF-related talk you’ve given in the past, and/or on one of
 ### *Give* an OpenSSF Talk
 If you’re interested in giving a talk about OpenSSF at a conference targeting open source developers and/or maintainers, you can find a list of [sample abstracts](./abstracts) as well as [talk templates](./talk_templates).
 
-If you’d like feedback on your abstract or your talk, please join us during weekly office hours!
+If you’d like feedback on your abstract or your talk, please join us during weekly office hours, which you can find on the [OpenSSF Community Calendar](https://openssf.org/getinvolved/)!
 ### Provide “Maintainer Experience” Feedback
 If you’re an Open Source Project Maintainer, OpenSSF provides a number of [useful resources](https://best.openssf.org/developers) that are intended to help you secure your projects. We would greatly welcome feedback on these tools! Join our [#maintainer-experience](https://openssf.slack.com/archives/C06JKSUFH32) channel on [OpenSSF Slack](https://openssf.slack.com/) — we would love to hear from you!
 ### Something else?
