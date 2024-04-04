@@ -17,7 +17,7 @@ With @Cheukting's departure, there were questions about who was now running the 
 It sounds like in the interim, the meetings fall to the co-chairs of the Marketing Advisory Council. Speaking of which...
 
 ## Changes to Marketing Committee structure
-The Marketing Committee is now the [Marketing Advisory Council](https://openssf.org/blog/2024/03/14/openssf-marketing-advisory-council-aims-to-shape-the-future-of-open-source-security-advocacy/) (MAC), and is now a benefit limited to Premier OpenSSF Members.
+The Marketing Committee is now the [Marketing Advisory Council](https://openssf.org/blog/2024/03/14/openssf-marketing-advisory-council-aims-to-shape-the-future-of-open-source-security-advocacy/) (MAC), and is a benefit limited to OpenSSF Members.
 
 The DevRel Community remains a sub-initiative of the MAC, and open to the general public for participation.
 
