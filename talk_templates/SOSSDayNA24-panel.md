@@ -11,13 +11,13 @@ Under the hood of most software is a complex system of tooling, processes, and, 
 ## Panelists
 ### Katherine Druckman (Intel)
 * Twitter: https://twitter.com/katherined
-* Fediverse: <https://reality2.social/katherined>
+* Fediverse: <https://reality2.social/@katherined>
 * LinkedIn: https://www.linkedin.com/in/katherinedruckman
 * GitHub: https://github.com/kdruckman
 ​
 ### Tabatha DiDomenico (G-Research)
 * Twitter: https://twitter.com/tabdido
-* Fediverse: <https://infosec.exchange/Tabatha>
+* Fediverse: <https://infosec.exchange/@Tabatha>
 * LinkedIn: https://www.linkedin.com/in/tabathad
 * GitHub: https://github.com/tabathad
 ​
@@ -27,7 +27,7 @@ Under the hood of most software is a complex system of tooling, processes, and, 
 ​
 ### Angie Byron (Aiven)
 * Twitter: https://twitter.com/webchick
-* Fediverse: <https://mastodon.social/webchick>
+* Fediverse: <https://mastodon.social/@webchick>
 * LinkedIn: https://www.linkedin.com/in/webchick
 * GitHub: https://github.com/webchick
 * Blog: <https://webchick.tech/>
