@@ -56,7 +56,6 @@ Under the hood of most software is a complex system of tooling, processes, and, 
   * DevRel Office Hours (1st and 3rd Thursday of the month)
   
 ### Get Involved in OpenSSF
-​
 * [Ways to Participate](https://openssf.org/getinvolved/)
 * [Mailing list](https://openssf.org/sign-up/)
 * [Slack Channel Guide](https://docs.google.com/document/d/1rTOF4nJA3QM7lBDCEtbPUS6ZAPo3X4jm6dhPE8k8VDo)
