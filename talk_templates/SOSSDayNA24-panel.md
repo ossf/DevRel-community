@@ -9,56 +9,46 @@ Under the hood of most software is a complex system of tooling, processes, and, 
 [Slides](https://docs.google.com/presentation/d/1geU_v7r_W1ix01qoMg8dOV1qPMZ6Z0EFVo4O4xqeLlw/edit#slide=id.g191532f3332_0_29)
 ​
 ## Panelists
-​
 ### Katherine Druckman (Intel)
-​
-* Twitter: https://twitter.com/@katherined
-* Fediverse: <https://reality2.social/@katherined>
-* LinkedIn: https://www.linkedin.com/in/@katherinedruckman
-* GitHub: https://github.com/@kdruckman
+* Twitter: https://twitter.com/katherined
+* Fediverse: <https://reality2.social/katherined>
+* LinkedIn: https://www.linkedin.com/in/katherinedruckman
+* GitHub: https://github.com/kdruckman
 ​
 ### Tabatha DiDomenico (G-Research)
-​
-* Twitter: https://twitter.com/@tabdido
-* Fediverse: <https://infosec.exchange/@Tabatha>
-* LinkedIn: https://www.linkedin.com/in/@tabathad
-* GitHub: https://github.com/@tabathad
+* Twitter: https://twitter.com/tabdido
+* Fediverse: <https://infosec.exchange/Tabatha>
+* LinkedIn: https://www.linkedin.com/in/tabathad
+* GitHub: https://github.com/tabathad
 ​
 ### Lori Lorusso (Percona)
-​
-* Twitter: https://twitter.com/@LoriLorusso
-* LinkedIn: https://www.linkedin.com/in/@lorilorusso
+* Twitter: https://twitter.com/LoriLorusso
+* LinkedIn: https://www.linkedin.com/in/lorilorusso
 ​
 ### Angie Byron (Aiven)
-​
-* Twitter: https://twitter.com/@webchick
-* Fediverse: <https://mastodon.social/@webchick>
-* LinkedIn: https://www.linkedin.com/in/@webchick
-* GitHub: https://github.com/@webchick
+* Twitter: https://twitter.com/webchick
+* Fediverse: <https://mastodon.social/webchick>
+* LinkedIn: https://www.linkedin.com/in/webchick
+* GitHub: https://github.com/webchick
 * Blog: <https://webchick.tech/>
 ​
 ## Resources & Links
-​
 ### About the OpenSSF DevRel Community
-​
 * [OpenSSF DevRel Community Charter](https://docs.google.com/document/d/1hO6NuSiNr_7PO1QTYsB6qzcS8pAFW7p_6JT2y0XL5Nk/edit#heading=h.z9vrmtiy2usx)
 * [OpenSSF DevRel Community GitHub Repo](https://github.com/ossf/DevRel-community)
 * [Slack #mac-devrel-community](https://openssf.slack.com/archives/C060PHUUPAA) in [OpenSSF Slack](https://openssf.slack.com/)
 ​
 ### Spread the word about OpenSSF
-​
 * [OpenSSF Talk Templates](https://github.com/ossf/DevRel-community/tree/main/talk_templates)
 * [CFP Abstracts](https://github.com/ossf/DevRel-community/tree/main/abstracts)
 * [Start an OpenSSF meetup chapter](https://openssf.org/community/meetup-guidelines/)
 ​
-### Free OpenSSF Courses
-​
+### Free OpenSSF Courses​
 * [Secure Software Development Fundamentals](https://openssf.org/training/courses/)
 * [Securing Your Software Supply Chain with Sigstore](https://openssf.org/training/securing-your-software-supply-chain-with-sigstore-course/)
 * [Securing Projects with OpenSSF Scorecard](https://training.linuxfoundation.org/express-learning/securing-projects-with-openssf-scorecard-lfel1006/)
 ​
-### Get Involved in the OpenSSF DevRel Community
-​
+### Get Involved in the OpenSSF DevRel Community​
 * [How to Contribute](https://github.com/ossf/DevRel-community/blob/main/CONTRIBUTING.md)
 * [Good First Issues](https://github.com/ossf/DevRel-community/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 * [Meet with Us!](https://github.com/ossf/DevRel-community/blob/main/CONTRIBUTING.md)
